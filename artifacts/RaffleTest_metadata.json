@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"test/Raffle.t.sol": "RaffleTest"
+		},
+		"evmVersion": "prague",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"test/Raffle.t.sol": {
+			"keccak256": "0xaec4c4cefd0127a8c5f8b1cabb876c7677dff508a5d434a3d038004c32695e09",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://000f000d39109ab5a16f781a2735589a860d4a01380b51b1eb6e1df200e2175d",
+				"dweb:/ipfs/QmZ2xJu94twkWQCcDTeqnAXMT2L6wpQnSfQgCzfmjhzB9T"
+			]
+		}
+	},
+	"version": 1
+}
